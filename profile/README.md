@@ -1,8 +1,9 @@
 ## Hey, this is us 👋
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+![Un banner donde se muestra el logo de los Indie Creators](https://user-images.githubusercontent.com/10075532/221389713-c10c21b0-d34f-4d87-8e4c-22ef5af9afc1.png)
 
-Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries** 🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+Estamos creando una comunidad de Creadores Independientes 🛠️. La idea de esta comunidad es poder crear varios Side Projects en conjunto, y demostrarle al mundo entero que los Hispanos tenemos muchísimo talento… que somos un gigante dormido, y que llego la hora de despertarlo.
+Es una comunidad que crece día tras día, y la iniciativa empezó por [Serudda](https://twitter.com/serudda), quien tiene la plena seguridad que vamos a construir grandes cosas juntos. ¡Si eres un creador, o tienes las ganas de empezar a crear… llegaste al lugar indicado, no te quedes fuera de una de las futuras comunidades hispanas más grandes del mundo!
 
 ### 🍿 An interconnected community
 
@@ -43,8 +44,6 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 </details>
 
 ---
-
-<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
 
 <!--
 Made with 🖤
