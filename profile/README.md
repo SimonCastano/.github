@@ -42,7 +42,7 @@ Son muchas cosas que obtendrás, pero te voy a listar algunas de las cosas que g
 
 <details> 
 	<summary><strong>Potenciar tu CV 📄</strong></summary>	
-	<p>Podrás poner en tu CV o LinkedIn que haces parte de la comunidad, y que has aportado en uno o varios Proyectos REALES… Serudda daría su aval de que eres miembro activo y que colaborar en uno o varios proyectos.</p>
+	<p>Podrás poner en tu CV o LinkedIn que haces parte de la comunidad, y que has aportado en uno o varios Proyectos REALES… Serudda daría su aval de que eres miembro activo y que colaboras activamente en uno o varios proyectos.</p>
 
 </details>
 
