@@ -1,10 +1,26 @@
-## Hey, this is us 👋
-
 ![Un banner donde se muestra el logo de los Indie Creators](https://user-images.githubusercontent.com/10075532/221389801-00bc8f73-297b-4e95-b162-00a7209508b7.png)
 
+<div align="center">
+  <br />
+  <a href="https://www.prisma.io/docs/getting-started/quickstart">Comienzo rápido</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.prisma.io/">Discord</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.prisma.io/docs/">Wiki</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.prisma.io/">Website</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.prisma.io/data-platform">Unirte!</a>
+  <br />
+  <hr />
+</div>
+
+## 👋 Bienvenid@!
 
 Estamos creando una comunidad de Creadores Independientes 🛠️. La idea de esta comunidad es poder crear varios Side Projects en conjunto, y demostrarle al mundo entero que los Hispanos tenemos muchísimo talento… que somos un gigante dormido, y que llego la hora de despertarlo.
 Es una comunidad que crece día tras día, y la iniciativa empezó por [Serudda](https://twitter.com/serudda), quien tiene la plena seguridad que vamos a construir grandes cosas juntos. ¡Si eres un creador, o tienes las ganas de empezar a crear… llegaste al lugar indicado, no te quedes fuera de una de las futuras comunidades hispanas más grandes del mundo!
+
+-----
 
 ### 🍿 An interconnected community
 
