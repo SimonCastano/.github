@@ -56,7 +56,7 @@ Son muchas cosas que obtendrás, pero te voy a listar algunas de las cosas que g
 
 ### 👓 Estar al tanto de todo
 
-Si no te quieres perder nada de lo que estamos construyendo, aquí te dejo en donde nos puedes encontrar:
+Si no te quieres perder nada de lo que estamos construyendo, aquí te dejo donde nos puedes encontrar:
 
 - 🟣 **[Twitch](https://www.twitch.tv/serudda):** Cada semana, los Martes, Miércoles y Jueves, [Serudda](https://www.twitch.tv/serudda) se conecta en vivo, y comparte su día a día creando o trabajando en uno de los Side Projects de la comunidad de Indie Creators.
 
