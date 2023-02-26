@@ -48,7 +48,7 @@ Son muchas cosas que obtendrás, pero te voy a listar algunas de las cosas que g
 
 <details> 
 	<summary><strong>Acumularás <a href="https://github.com/Indie-Creator-Community/indie-creators-community/wiki/2-%C2%B7-Recompensas-%F0%9F%92%8E#que-son-los-indietokens">indieTokens</a> (en Beta 🔥)</strong></summary>
-	<p>Nuestra moneda virtual, que ayuda a mostrarle a los demás miembros de la comunidad todo el aporte que has brindado. Más adelante, cuando incluyamos una “Tienda” virtual, la idea es que puedas canjear tus indieTokens por items de la tienda, e.j. una suscripción anual en Platzi o Coursera, una mentoría 1:1 de 1 hora con Serudda, algún periférico que necesites cambiar (mouse, teclado, etc.) OJO: todo esto depende de si el Side Project en el que has contribuido, está generando ingresos reales. Te invito a leer un poco más sobre las Recompensas.</p>
+	<p>Nuestra moneda virtual, que ayuda a mostrarle a los demás miembros de la comunidad todo el aporte que has brindado. Más adelante, cuando incluyamos una “Tienda” virtual, la idea es que puedas canjear tus indieTokens por items de la tienda, e.j. una suscripción anual en Platzi o Coursera, una mentoría 1:1 de 1 hora con Serudda, algún periférico que necesites cambiar (mouse, teclado, etc.) <strong>OJO: todo esto depende de si el Side Project en el que has contribuido, está generando ingresos reales. Te invito a leer un poco más sobre las Recompensas. </strong></p>
 
 </details>
 
