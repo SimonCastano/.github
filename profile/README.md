@@ -23,7 +23,7 @@ Es una comunidad que crece día tras día, y la iniciativa empezó por [Serudda]
 
 ### 🍿 Como puedo ser parte de la comunidad?
 
-No hay ningún requisito, simplemente tener un amor (o por lo menos la curiosidad) por crear 🛠️. Así que no importa tu nivel de experiencia dentro de la industria tech (junior, mid, senior, cto, etc.) o tú role o cargo actual (dev, designer, product manager, tester, etc.)… todos son bienvenidos, así sea para colaborar en los Side Projects que construyamos con la comunidad, o simplemente aprender del proceso de creación de un proyecto personal, para que tú empieces a crear los tuyos propios 🥳.
+No hay ningún requisito, simplemente tener un amor (o por lo menos la curiosidad) por crear 🛠️. Así que no importa tu nivel de experiencia dentro de la industria tech (junior, mid, senior, cto, etc.) o tú role o cargo actual (dev, designer, product manager, tester, etc.)… tod@s son bienvenid@s, así sea para colaborar en los Side Projects que construyamos con la comunidad, o simplemente aprender del proceso de creación de un proyecto personal, para que tú empieces a crear los tuyos propios 🥳.
 
 Lo único que tienes que hacer es unirte a nuestro [Discord](https://discord.gg/Qncuxgcgsn), el cual llamamos **“Nuestro Centro de Operaciones”**… todo ocurre ahí dentro: ideación, planificación, dudas, preguntas, respuestas, lanzamientos, etc.
 
