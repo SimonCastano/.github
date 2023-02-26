@@ -54,9 +54,15 @@ Son muchas cosas que obtendrás, pero te voy a listar algunas de las cosas que g
 
 -----
 
-### 👓 Appendix
+### 👓 Estar al tanto de todo
 
-See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
+Si no te quieres perder nada de lo que estamos construyendo, aquí te dejo en donde nos puedes encontrar:
+
+- 🟣 **[Twitch](https://www.twitch.tv/serudda):** Cada semana, los Martes, Miércoles y Jueves, [Serudda](https://www.twitch.tv/serudda) se conecta en vivo, y comparte su día a día creando o trabajando en uno de los Side Projects de la comunidad de Indie Creators.
+
+- 🐦 **[Twitter](https://twitter.com/serudda):** Será nuestro altavoz… por ahora no tenemos un canal oficial, pero nuestro altavoz en este momento es @serudda.
+
+- 🏠 **[Discord](https://discord.gg/Qncuxgcgsn):** Aquí te podrás enterar de todo… como dije antes este es “Nuestro Centro de Operaciones”, toda la magia ocurre aquí.
 
 <details> 
 	<summary>"Tell me more, I can't get enough!"</summary>
