@@ -5,7 +5,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://www.prisma.io/">Discord</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/Indie-Creator-Community/indie-creators-community/wiki">Wiki</a>
+  <a href="https://github.com/Indie-Creator-Community/indie-creators-community/wiki/1-%C2%B7-Bienvenid@-%F0%9F%91%8B">Wiki</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://www.prisma.io/">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
