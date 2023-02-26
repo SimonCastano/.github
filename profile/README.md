@@ -9,7 +9,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://discord.gg/Qncuxgcgsn">Website (Pronto)</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://discord.gg/Qncuxgcgsn">Unirte!</a>
+  <a href="https://discord.gg/Qncuxgcgsn">Unirse!</a>
   <br />
   <hr />
 </div>
@@ -17,27 +17,27 @@
 ## 👋 Bienvenid@!
 
 Estamos creando una comunidad de Creadores Independientes 🛠️. La idea de esta comunidad es poder crear varios Side Projects en conjunto, y demostrarle al mundo entero que los Hispanos tenemos muchísimo talento… que somos un gigante dormido, y que llego la hora de despertarlo.
-Es una comunidad que crece día tras día, y la iniciativa empezó por [Serudda](https://twitter.com/serudda), quien tiene la plena seguridad que vamos a construir grandes cosas juntos. ¡Si eres un creador, o tienes las ganas de empezar a crear… llegaste al lugar indicado, no te quedes fuera de una de las futuras comunidades hispanas más grandes del mundo!
+Es una comunidad que crece día tras día, y la iniciativa empezó por [Serudda](https://twitter.com/serudda), quien tiene la plena seguridad que vamos a construir grandes cosas juntos. ¡Si eres un creador, o tienes las ganas de empezar a crear 🚀… llegaste al lugar indicado, no te quedes fuera de una de las futuras comunidades hispanas más grandes del mundo 🌎!
 
 -----
 
-### 🍿 An interconnected community
+### 🍿 Como puedo ser parte de la comunidad?
 
-The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
+No hay ningún requisito, simplemente tener un amor (o por lo menos la curiosidad) por crear. Así que no importa tu nivel de experiencia dentro de la industria tech (junior, mid, senior, cto, etc.) o tú role o cargo actual (dev, designer, product manager, tester, etc.)… todos son bienvenidos, así sea para colaborar en los Side Projects que construyamos con la comunidad, o simplemente aprender del proceso de creación de un proyecto personal, para que tú empieces a crear los tuyos propios.
 
-- [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
-- Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
-- **Every minute** a developer creates a new release 🏄 for a public project on GitHub
+Lo único que tienes que hacer es unirte a nuestro [Discord](https://discord.gg/Qncuxgcgsn), el cual llamamos **“Nuestro Centro de Operaciones”**… todo ocurre ahí dentro: ideación, planificación, dudas, preguntas, respuestas, lanzamientos, etc.
 
-Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
+-----
 
-### 🦦 Contributing to the ecosystem
+### 🦦 Que gano contribuyendo a la comunidad?
 
-We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
+Son muchas cosas que obtendrás, pero te voy a listar algunas de las cosas que ganaras por contribuir dentro de la comunidad:
 
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
+- Aprenderás todo el flujo de creación de un Side Project digital (búsqueda de problemas a resolver, buscar una solución a dicho problema, construir una solución en menos de 2 semanas, lanzar al mundo tu solución, evaluar si tu solución es valiosa y resuelve el problema real que están teniendo tus usuarios, he iterar rápidamente para darle valor constante a tus usuarios, y lograr así llegar a más personas).  
+
+- Podrás poner en tu CV o LinkedIn que haces parte de la comunidad, y que has aportado en uno o varios Proyectos REALES… yo daría el aval de que eres miembro activo y que colaborar en uno o varios proyectos.
+
+- Acumularás indieTokens (en Beta): nuestra moneda virtual, que ayuda a mostrarles a los demás miembros de la comunidad todo el aporte que has brindado. Más adelante, cuando incluyamos una **Tienda** virtual, la idea es que puedas canjear tus indieTokens por items de la tienda, e.j. una suscripción anual en Platzi o Coursera, una mentoría 1:1 de 1 hora con Serudda, algún periférico que necesites cambiar (mouse, teclado, etc.) OJO: todo esto depende de si el Side Project en el que has contribuido, está generando ingresos reales. Te invito a leer un poco más sobre las Recompensas.
 
 ### 👓 Appendix
 
