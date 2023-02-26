@@ -1,12 +1,11 @@
 ![Un banner donde se muestra el logo de los Indie Creators](https://user-images.githubusercontent.com/10075532/221389801-00bc8f73-297b-4e95-b162-00a7209508b7.png)
 
 <div align="center">
-  <br />
   <a href="https://www.prisma.io/docs/getting-started/quickstart">Comienzo rápido</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://www.prisma.io/">Discord</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://www.prisma.io/docs/">Wiki</a>
+  <a href="https://github.com/Indie-Creator-Community/indie-creators-community/wiki">Wiki</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://www.prisma.io/">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
