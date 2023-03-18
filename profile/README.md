@@ -52,6 +52,64 @@ Son muchas cosas que obtendrás, pero te voy a listar algunas de las cosas que g
 
 </details>
 
+### 🦦 Colaboradores
+<table> 
+  <tr>  
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/10075532?v=4" width="100" height="100"><br>
+      <a href="https://github.com/serudda">Serudda</a>
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/61479618?v=4" width="100" height="100"><br>
+      <a href="https://avatars.githubusercontent.com/u/61479618?v=4">David Montoya</a>
+    </td>  
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/35616501?v=4" width="100" height="100"><br>
+      <a href="https://github.com/SimonCastano">Simon Castaño</a>
+    </td>  
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/44151183?v=4" width="100" height="100"><br>
+      <a href="https://github.com/Aeternus185">Andry Orellana</a>
+    </td>  
+  </tr>  
+  <tr>  
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/25472045?v=4" width="100" height="100"><br>
+      <a href="https://github.com/ManuelGil">Manuel Gil </a>
+    </td>  
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/14036522?v=4" width="100" height="100"><br>
+      <a href="https://github.com/Zyruks">Zyruks</a>
+    </td>  
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/68081080?v=4" width="100" height="100"><br>
+      <a href="https://github.com/santiagohernandezs">Tao</a>
+    </td>  
+    <td>
+      <img src="https://via.placeholder.com/100x100" width="100" height="100"><br>
+      <a href="https://www.ejemplo.com">Enlace 8</a>
+    </td>  
+  </tr>  
+  <tr>  
+    <td>
+      <img src="https://via.placeholder.com/100x100" width="100" height="100"><br>
+      <a href="https://www.ejemplo.com">Enlace 9</a>
+    </td>  
+    <td>
+      <img src="https://via.placeholder.com/100x100" width="100" height="100"><br>
+      <a href="https://www.ejemplo.com">Enlace 10</a>
+    </td>  
+    <td>
+      <img src="https://via.placeholder.com/100x100" width="100" height="100"><br>
+      <a href="https://www.ejemplo.com">Enlace 11</a>
+    </td>  
+    <td>
+      <img src="https://via.placeholder.com/100x100" width="100" height="100"><br>
+      <a href="https://www.ejemplo.com">Enlace 12</a>
+    </td>  
+  </tr> 
+</table>
+
 -----
 
 ### 👓 Estar al tanto de todo
@@ -69,3 +127,6 @@ Si no te quieres perder nada de lo que estamos construyendo, aquí te dejo donde
 
 
 Creado con ❤️ por [Serudda](https://www.twitter.com/serudda)
+
+
+
